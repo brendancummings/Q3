@@ -1,0 +1,54 @@
+img{
+	width: 30%;
+	float: right;
+	clear: right;
+	margin: 10px;
+	border: 5px solid white;
+}
+.clearfix::after{
+	content: ".";
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
+}
+li{
+	clear: right;
+}
+.brady{
+	float: left;
+	clear: left;
+}
+h1{
+	text-align: center;
+	color: orange;
+	font-size: 50px;
+}
+body{
+	background-color: black;
+}
+section{
+	color: white;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.wrapper{
+	margin: 0 auto;
+	border: 30px double white;
+	width: 75%;
+}
+.finalscore{
+	font-size: 40px;
+	text-align: center;
+}
+.score{
+	font-size: 30px;
+	text-align: center;
+}
+.eagles{
+	font-size: 70px;
+	text-align: center;
+}
+footer{
+	color: white;
+}
