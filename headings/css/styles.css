@@ -1,0 +1,32 @@
+h1	{
+	color: red;
+	text-align: center;
+	text-shadow: 2px 2px 8px #ff0000;
+}
+h2	{
+	color: purple;
+	text-align: center
+}
+p{
+	color: green;
+	text-align:justify;
+	text-shadow: 2px 2px 8px #a55b7f;
+	letter-spacing: 5px;
+	margin: 300px 504px 128px 333px;
+}
+h3{
+	color: olive;
+	text-align:right;
+}
+h4{
+	color:blue;
+	text-align: justify;
+}
+h5{
+	color:aqua;
+	text-align: right;
+}
+h6{
+	color:maroon;
+	text-align:left;
+}
